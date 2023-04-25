@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s23/jpa02-joshuason55
 
-Deployed at: https://jpa02-joshuason55.herokuapp.com
+Deployed at: https://jpa02h-joshuason.herokuapp.com/
 
 
 # About this repo
